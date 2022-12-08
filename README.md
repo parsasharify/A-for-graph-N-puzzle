@@ -1,4 +1,4 @@
-# A-for-graph-N-puzzle
+# A*-for-graph-N-puzzle
 
 We have a graph G with n vertices and m edges. Each vertex of G, such as v, is labeled with
 There a value of 0 ≤ lv < n. At each step, we can match the label with value 0 to one of the labels on the vertex
