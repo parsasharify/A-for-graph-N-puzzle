@@ -5,3 +5,7 @@ There a value of 0 ≤ lv < n. At each step, we can match the label with value 0
 Move next to it. The goal is to label each vertex v with its own value. That is, v = lv.
 Find the least number of possible moves to reach the goal. It is also guaranteed that there is a way for
 Reaching the goal (the condition where the label on every vertex with the same vertex number) exists.
+
+
+
+For this problem, we use A* algorithm
